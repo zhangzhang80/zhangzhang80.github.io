@@ -32,4 +32,4 @@ My research focuses on computer vision, pattern recognition, and intelligent vis
 
 A slow runnner (Compeleted the [Beijing Marathan](http://www.beijing-marathon.com/) in 2014 and 2015)
 
-A drum learner (On and Off learning from Teacher Zhao and Teacher Fu at [Simon Drum Community](http://www.simondrum.cn/))
+A drum player (On and Off practice at [Simon Drum Community](http://www.simondrum.cn/) since 2016)
