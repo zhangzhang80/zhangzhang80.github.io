@@ -13,7 +13,7 @@ Since Dec. 2018, I am working as a visiting researcher under the direction of Pr
 
 ## Research Interests
 
-My research focuses on computer vision, pattern recognition, and intelligent visual surveillance. The main research topics include human action and activity recognition, human attribute recognition, person re-identification, and large-scale person retrieval.
+My research field is computer vision and pattern recognition. The main research interests include human action and activity recognition, human attribute recognition, person re-identification, and large-scale person retrieval.
 
 ## Selective Publications
 
