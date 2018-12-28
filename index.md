@@ -16,7 +16,7 @@ My research focuses on computer vision, pattern recognition, and intelligent vis
 
 ## Selective Publications
 
-1. D. Li, Z. Zhang, X. Chen, and K. Huang, A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios, IEEE Trans. on Image Processing (IEEE T-IP), Vol. 28?,?Issue: 4, pp. 1575?– 1590, April 2019. 
+1. D. Li, Z. Zhang, X. Chen, and K. Huang, A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios, IEEE Trans. on Image Processing (IEEE T-IP), Vol. 28, Issue: 4, pp. 1575?– 1590, April 2019. 
 2. H. Huang, D. Li, Z. Zhang, X. Chen, and K. Huang, "Adversarially Occluded Samples For Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
 3. D. Li, X. Chen, Z. Zhang, and K. Huang, "Pose Guided Deep Model for Pedestrian Attribute Recognition in Surveillance Scenarios," International Conference on Multimedia and Expo (ICME), 2018.
 4. D. Li, X. Chen, Z. Zhang, and K. Huang, "Learning Deep Context-aware Features over Body and Latent Parts for Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017
