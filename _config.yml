@@ -5,9 +5,10 @@ markdown: kramdown
 
 tracking_id: #
 
-#footer: yes
-#footer_url: "https://github.com/ankitsultana"
-#footer_text: "Page design by Ankit Sultana"
+footer: yes
+footer_text: "Thanks Ankit Sultana for Page design!"
+footer_url: "https://github.com/ankitsultana"
+
 
 sass:
     style: compressed
