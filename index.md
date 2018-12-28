@@ -30,7 +30,7 @@ My research focuses on computer vision, pattern recognition, and intelligent vis
 
 ---
 
-Other Identities
+## Other Identities:
 
 > A slow runnner (Compeleted the [Beijing Marathan](http://www.beijing-marathon.com/) in 2014 and 2015)
 >
