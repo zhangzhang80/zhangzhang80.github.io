@@ -19,10 +19,10 @@ My research focuses on computer vision, pattern recognition, and intelligent vis
 
 1. D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios," IEEE Trans. on Image Processing (<b>IEEE T-IP</b>), Vol. 28, Issue: 4, pp. 1575 – 1590, April 2019. 
 2. H. Huang, D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Adversarially Occluded Samples For Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2018.
-3. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, "Pose Guided Deep Model for Pedestrian Attribute Recognition in Surveillance Scenarios," International Conference on Multimedia and Expo (<b>ICME</b>), 2018.
-4. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, "Learning Deep Context-aware Features over Body and Latent Parts for Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2017
-5. <b>Z. Zhang</b>, K. Huang, T. Tan, P. Yang and J. Li, "ReD-SFA: Relation Discovery Based Slow Feature Analysis for Trajectory Clustering," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), pp. 752-760, 2016.
-6. Y. Shan,  <b>Z. Zhang</b>, P. Yang, and K. Huang, "Adaptive Slice Representation for Human Action Classification," IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE T-CSVT</b>), Vol. 25, no. 10, 2015.
+3. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, "Learning Deep Context-aware Features over Body and Latent Parts for Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2017
+4. <b>Z. Zhang</b>, K. Huang, T. Tan, P. Yang and J. Li, "ReD-SFA: Relation Discovery Based Slow Feature Analysis for Trajectory Clustering," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), pp. 752-760, 2016.
+5. Y. Shan,  <b>Z. Zhang</b>, P. Yang, and K. Huang, "Adaptive Slice Representation for Human Action Classification," IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE T-CSVT</b>), Vol. 25, no. 10, 2015.
+6. <b>Z. Zhang</b>, J. Cheng, J. Li, W. Bian, and D. Tao, "Segment-based features for time series classification," The Computer Journal (<b>TCJ</b>), Vol. 55, no. 9, pp. 1088-1102, 2012.
 7. <b>Z. Zhang</b> and D. Tao, "Slow Feature Analysis for Action Recognition," IEEE Trans. on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>), vol.34, no. 3, pp. 436-450, 2012.
 8. <b>Z. Zhang</b>, T. Tan and K. Huang, "An Extended Grammar System for Learning and Recognizing Complex Visual Events," IEEE Trans. on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>), vol. 33, no. 2, pp. 240-255, 2011.
 9. <b>Z. Zhang</b>, K. Huang, and T. Tan, "Multi-thread Parsing for Recognizing Complex Events in Videos," European Conference on Computer Vision (<b>ECCV</b>), 2008.
