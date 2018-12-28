@@ -14,7 +14,7 @@ Since Dec. 2018, I was working as a visiting researcher under the supervision of
 
 My research focuses on computer vision, pattern recognition, and intelligent visual surveillance. The main research topics include human action and activity recognition, human attribute recognition, person re-identification, and large-scale person retrieval.
 
-## Publications
+## Selective Publications
 
 1. D. Li, Z. Zhang, X. Chen, and K. Huang, A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios, IEEE Trans. on Image Processing (IEEE T-IP), Vol. 28?,?Issue: 4, pp. 1575?– 1590, April 2019. 
 2. H. Huang, D. Li, Z. Zhang, X. Chen, and K. Huang, "Adversarially Occluded Samples For Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
