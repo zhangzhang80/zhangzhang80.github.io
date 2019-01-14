@@ -28,8 +28,8 @@ My research field is computer vision and pattern recognition. The main research 
 9. <b>Z. Zhang</b>, K. Huang, and T. Tan, "Multi-thread Parsing for Recognizing Complex Events in Videos," European Conference on Computer Vision (<b>ECCV</b>), 2008.
 10. <b>Z. Zhang</b>, K. Huang, T. Tan and L. Wang, "Trajectory Series Analysis based  Event Rule Induction for Visual Surveillance," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2007.
 
-## Other Identities
+## Other Hobbies
 
 A slow runnner (Compeleted the [Beijing Marathan](http://www.beijing-marathon.com/) in 2014 and 2015)
 
-A drum player (On and Off practice at [Simon Drum Community](http://www.simondrum.cn/) since 2016)
+A drum player (Practice at [Simon Drum Community](http://www.simondrum.cn/) since 2016)
