@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="zhangzhang.jpg">
 
-I received the PhD degree in Pattern Recognition and Intelligent Systems from the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/) in 2009 under the supervision of Prof. Tieniu Tan. From 2009 to 2010, I was a research fellow working with Prof. Dacheng Tao at the [School of Computer Science and Engineering](http://scse.ntu.edu.sg/Pages/Home.aspx), Nanyang Technological University (NTU). In September 2010, I joined the [National Laboratory of Pattern Recognition (NLPR)](http://www.nlpr.ia.ac.cn/CN/model/index.shtml), CASIA. Currently, I am an Associate Professor at the [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://cripac.ia.ac.cn/). 
+I received the PhD degree in Pattern Recognition and Intelligent Systems from the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/) in 2009 under the supervision of Prof. Tieniu Tan. From 2009 to 2010, I was a research fellow working with Prof. Dacheng Tao at the [School of Computer Science and Engineering, Nanyang Technological University (NTU)](http://scse.ntu.edu.sg/Pages/Home.aspx). In September 2010, I joined the [National Laboratory of Pattern Recognition (NLPR)](http://www.nlpr.ia.ac.cn/CN/model/index.shtml), CASIA. Currently, I am an Associate Professor at the [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://cripac.ia.ac.cn/).
 
 Since Dec. 2018, I am working as a visiting researcher under the direction of Prof. Song-Chun Zhu's in the [Center for Vision, Cognition, Learning, and Autonomy (VCLA) lab](http://vcla.stat.ucla.edu/) at University of California, Los Angeles (UCLA). 
 
@@ -17,7 +17,7 @@ My research field is computer vision and pattern recognition. The main research 
 
 ## Selective Publications
 
-1. D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios," IEEE Trans. on Image Processing (<b>IEEE T-IP</b>), Vol. 28, Issue: 4, pp. 1575 – 1590, 2019. 
+1. D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios," IEEE Trans. on Image Processing (<b>IEEE T-IP</b>), Vol. 28, Issue: 4, pp. 1575 – 1590, 2019. [website of dataset](https://github.com/dangweili/RAP) 
 2. H. Huang, D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Adversarially Occluded Samples For Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2018.
 3. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, "Learning Deep Context-aware Features over Body and Latent Parts for Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2017.
 4. <b>Z. Zhang</b>, K. Huang, T. Tan, P. Yang and J. Li, "ReD-SFA: Relation Discovery Based Slow Feature Analysis for Trajectory Clustering," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), pp. 752-760, 2016.
