@@ -17,7 +17,7 @@ My research field is computer vision and pattern recognition. The main research 
 
 ## Selective Publications
 
-1. D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios," IEEE Trans. on Image Processing (<b>IEEE T-IP</b>), Vol. 28, Issue: 4, pp. 1575 – 1590, 2019. [website of dataset](https://github.com/dangweili/RAP) 
+1. D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios," IEEE Trans. on Image Processing (<b>IEEE T-IP</b>), Vol. 28, Issue: 4, pp. 1575 – 1590, 2019. [[website of dataset]](https://github.com/dangweili/RAP) 
 2. H. Huang, D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Adversarially Occluded Samples For Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2018.
 3. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, "Learning Deep Context-aware Features over Body and Latent Parts for Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2017.
 4. <b>Z. Zhang</b>, K. Huang, T. Tan, P. Yang and J. Li, "ReD-SFA: Relation Discovery Based Slow Feature Analysis for Trajectory Clustering," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), pp. 752-760, 2016.
