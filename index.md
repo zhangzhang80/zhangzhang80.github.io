@@ -17,7 +17,7 @@ My research field is computer vision and pattern recognition. The main research 
 
 ## Selective Publications
 
-# Journal Papers
+### Journal Papers
 1. Y. Li, <b>Z. Zhang</b>, L. Wang, and T. Tan, "MAPNet: Multi-modal Attentive Pooling Network for RGB-D Indoor Scene Classification," IEEE Trans. on Image Processing (<b>IEEE T-IP</b>), accepted by Pattern Recognition (<b>PR<b>), 2019.
 2. D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios," IEEE Trans. on Image Processing (<b>IEEE T-IP</b>), Vol. 28, Issue: 4, pp. 1575 – 1590, 2019. [[website of dataset]](https://github.com/dangweili/RAP)
 3. W. Zhao, <b>Z. Zhang</b>, and K. Huang, “Gestalt laws based tracklets analysis for human crowd understanding,” Pattern Recognition (<b>PR<b>), Vol. 75, pp.112-127, 2018.
@@ -27,7 +27,7 @@ My research field is computer vision and pattern recognition. The main research 
 7. <b>Z. Zhang</b> and D. Tao, "Slow Feature Analysis for Action Recognition," IEEE Trans. on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>), vol.34, no. 3, pp. 436-450, 2012.
 8. <b>Z. Zhang</b>, T. Tan and K. Huang, "An Extended Grammar System for Learning and Recognizing Complex Visual Events," IEEE Trans. on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>), vol. 33, no. 2, pp. 240-255, 2011.
 
-# Conference Papers
+### Conference Papers
 1. W. Yang, H. Huang, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Towards Rich Feature Discovery with Class Activation Maps Augmentation
 for Person Re-Identification," Accepted by IEEE Conference on Computre Vision and Pattern Recognition (<b>CVPR<b>), 2019.
 2. X. Hu, X. Zhang, <b>Z. Zhang</b>, L. Wang, and T. Tan, "Zoom in with Meta-SR: A Magnification-Arbitrary Network for Super-Resolution," Accepted by IEEE Conference on Computre Vision and Pattern Recognition (<b>CVPR<b>), 2019.
