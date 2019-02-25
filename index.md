@@ -18,9 +18,9 @@ My research field is computer vision and pattern recognition. The main research 
 ## Selective Publications
 
 ### Journal Papers
-1. Y. Li, <b>Z. Zhang</b>, L. Wang, and T. Tan, "MAPNet: Multi-modal Attentive Pooling Network for RGB-D Indoor Scene Classification," IEEE Trans. on Image Processing (<b>IEEE T-IP</b>), accepted by Pattern Recognition (<b>PR<b>), 2019.
+1. Y. Li, <b>Z. Zhang</b>, L. Wang, and T. Tan, "MAPNet: Multi-modal Attentive Pooling Network for RGB-D Indoor Scene Classification," IEEE Trans. on Image Processing (<b>IEEE T-IP</b>), accepted by Pattern Recognition (<b>PR</b>), 2019.
 2. D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios," IEEE Trans. on Image Processing (<b>IEEE T-IP</b>), Vol. 28, Issue: 4, pp. 1575 – 1590, 2019. [[website of dataset]](https://github.com/dangweili/RAP)
-3. W. Zhao, <b>Z. Zhang</b>, and K. Huang, “Gestalt laws based tracklets analysis for human crowd understanding,” Pattern Recognition (<b>PR<b>), Vol. 75, pp.112-127, 2018.
+3. W. Zhao, <b>Z. Zhang</b>, and K. Huang, “Gestalt laws based tracklets analysis for human crowd understanding,” Pattern Recognition (<b>PR</b>), Vol. 75, pp.112-127, 2018.
 4.	D. Jain, <b>Z. Zhang</b>, and K. Huang, “Random walk-based feature learning for micro-expression recognition,” Pattern Recognition Letters (<b>PRL</b>), 2018
 5.	D. Jain, <b>Z. Zhang</b>, and K. Huang, “Multi angle optimal pattern-based deep learning for automatic facial expression recognition,” Pattern Recognition Letters (<b>PRL</b>), 2017
 6.	单言虎、<b>张彰</b>、黄凯奇，“人的视觉行为识别研究回顾, 现状及展望”，计算机研究与发展，2016.
@@ -31,10 +31,10 @@ My research field is computer vision and pattern recognition. The main research 
 
 ### Conference Papers
 1. W. Yang, H. Huang, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Towards Rich Feature Discovery with Class Activation Maps Augmentation
-for Person Re-Identification," Accepted by IEEE Conference on Computre Vision and Pattern Recognition (<b>CVPR<b>), 2019.
-2. X. Hu, X. Zhang, <b>Z. Zhang</b>, L. Wang, and T. Tan, "Zoom in with Meta-SR: A Magnification-Arbitrary Network for Super-Resolution," Accepted by IEEE Conference on Computre Vision and Pattern Recognition (<b>CVPR<b>), 2019.
+for Person Re-Identification," Accepted by IEEE Conference on Computre Vision and Pattern Recognition (<b>CVPR</b>), 2019.
+2. X. Hu, X. Zhang, <b>Z. Zhang</b>, L. Wang, and T. Tan, "Zoom in with Meta-SR: A Magnification-Arbitrary Network for Super-Resolution," Accepted by IEEE Conference on Computre Vision and Pattern Recognition (<b>CVPR</b>), 2019.
 3. H. Huang, D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Adversarially Occluded Samples For Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2018.
-4. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, “Pose Guided Deep Model for Pedestrian Attribute Recognition in Surveillance Scenarios,” International Conference on Multimedia and Expo (ICME), 2018
+4. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, “Pose Guided Deep Model for Pedestrian Attribute Recognition in Surveillance Scenarios,” International Conference on Multimedia and Expo (<b>ICME</b>), 2018
 5. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, "Learning Deep Context-aware Features over Body and Latent Parts for Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2017.
 6. Y. Zhou, K. Yu, B. Leng, <b>Z. Zhang</b>, D. Li, K. Huang, B. Feng, C. Yao, “Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization”, British Machine Vision Conference (<b>BMVC</b>), 2017.
 7. D. Li, <b>Z. Zhang</b>, and T. Tan, “Large-Scale Slow Feature Analysis Using Spark for Visual Object Recognition,” Chinese Conference on Computer Vision (<b>CCCV</b>), 2017
