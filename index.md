@@ -32,13 +32,13 @@ My research field is computer vision and pattern recognition. The main research 
 ### Conference Papers
 1. W. Yang, H. Huang, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Towards Rich Feature Discovery with Class Activation Maps Augmentation
 for Person Re-Identification," Accepted by IEEE Conference on Computre Vision and Pattern Recognition (<b>CVPR</b>), 2019.
-2. X. Hu, X. Zhang, <b>Z. Zhang</b>, L. Wang, and T. Tan, "Zoom in with Meta-SR: A Magnification-Arbitrary Network for Super-Resolution," Accepted by IEEE Conference on Computre Vision and Pattern Recognition (<b>CVPR</b>), 2019.
-3. H. Huang, D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Adversarially Occluded Samples For Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2018.
-4. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, “Pose Guided Deep Model for Pedestrian Attribute Recognition in Surveillance Scenarios,” International Conference on Multimedia and Expo (<b>ICME</b>), 2018
-5. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, "Learning Deep Context-aware Features over Body and Latent Parts for Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2017.
-6. Y. Zhou, K. Yu, B. Leng, <b>Z. Zhang</b>, D. Li, K. Huang, B. Feng, C. Yao, “Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization”, British Machine Vision Conference (<b>BMVC</b>), 2017.
-7. D. Li, <b>Z. Zhang</b>, and T. Tan, “Large-Scale Slow Feature Analysis Using Spark for Visual Object Recognition,” Chinese Conference on Computer Vision (<b>CCCV</b>), 2017
-8. <b>Z. Zhang</b>, K. Huang, T. Tan, P. Yang and J. Li, "ReD-SFA: Relation Discovery Based Slow Feature Analysis for Trajectory Clustering," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), pp. 752-760, 2016.
+2. H. Huang, D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Adversarially Occluded Samples For Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2018.
+3. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, “Pose Guided Deep Model for Pedestrian Attribute Recognition in Surveillance Scenarios,” International Conference on Multimedia and Expo (<b>ICME</b>), 2018
+4. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, "Learning Deep Context-aware Features over Body and Latent Parts for Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2017.
+5. Y. Zhou, K. Yu, B. Leng, <b>Z. Zhang</b>, D. Li, K. Huang, B. Feng, C. Yao, “Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization”, British Machine Vision Conference (<b>BMVC</b>), 2017.
+6. D. Li, <b>Z. Zhang</b>, and T. Tan, “Large-Scale Slow Feature Analysis Using Spark for Visual Object Recognition,” Chinese Conference on Computer Vision (<b>CCCV</b>), 2017
+7. <b>Z. Zhang</b>, K. Huang, T. Tan, P. Yang and J. Li, "ReD-SFA: Relation Discovery Based Slow Feature Analysis for Trajectory Clustering," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), pp. 752-760, 2016.
+8.	W. Zhao, <b>Z. Zhang</b>, and K. Huang, “Joint crowd detection and semantic scene modeling using a Gestalt laws-based similarity,” IEEE International Conference on Image Processing (<b>ICIP</b>), 2016.
 9. <b>Z. Zhang</b>, K. Huang, and T. Tan, "Multi-thread Parsing for Recognizing Complex Events in Videos," European Conference on Computer Vision (<b>ECCV</b>), 2008.
 10. <b>Z. Zhang</b>, K. Huang, T. Tan and L. Wang, "Trajectory Series Analysis based  Event Rule Induction for Visual Surveillance," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2007.
 
