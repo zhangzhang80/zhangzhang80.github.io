@@ -18,7 +18,7 @@ My research field is computer vision and pattern recognition. The main research 
 ## Selective Publications
 
 ### Journal Papers
-1. Y. Li, <b>Z. Zhang</b>, L. Wang, and T. Tan, "MAPNet: Multi-modal Attentive Pooling Network for RGB-D Indoor Scene Classification," IEEE Trans. on Image Processing (<b>IEEE T-IP</b>), accepted by Pattern Recognition (<b>PR</b>), 2019.
+1. Y. Li, <b>Z. Zhang</b>, L. Wang, and T. Tan, "MAPNet: Multi-modal Attentive Pooling Network for RGB-D Indoor Scene Classification," accepted by Pattern Recognition (<b>PR</b>), 2019.
 2. D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios," IEEE Trans. on Image Processing (<b>IEEE T-IP</b>), Vol. 28, Issue: 4, pp. 1575 – 1590, 2019. [[website of dataset]](https://github.com/dangweili/RAP)
 3. W. Zhao, <b>Z. Zhang</b>, and K. Huang, “Gestalt laws based tracklets analysis for human crowd understanding,” Pattern Recognition (<b>PR</b>), Vol. 75, pp.112-127, 2018.
 4.	D. Jain, <b>Z. Zhang</b>, and K. Huang, “Random walk-based feature learning for micro-expression recognition,” Pattern Recognition Letters (<b>PRL</b>), 2018
