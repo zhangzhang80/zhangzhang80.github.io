@@ -18,8 +18,8 @@ My research field is computer vision and pattern recognition. The main research 
 ## Selective Publications
 
 ### Journal Papers
-1. Z. Jia, <b>Z. Zhang</b>, L. Wang, C. Shan and T. Tan, "Deep Unbiased Embedding Transfer for Zero-shot Learning," IEEE Transactions on Image Processing (<b>IEEE TIP<b>), 2019.
-2. D. Li, <b>Z. Zhang</b>, K. Yu, K. Huang and T. Tan, "ISEE: An Intelligent Scene Exploration and Evaluation Platform for Large-Scale Visual Surveillance," IEEE Transactions on Parallel and Distributed Systems (<b>IEEE TPDS<b>), 2019.
+1. Z. Jia, <b>Z. Zhang</b>, L. Wang, C. Shan and T. Tan, "Deep Unbiased Embedding Transfer for Zero-shot Learning," IEEE Transactions on Image Processing (<b>IEEE TIP</b>), 2019.
+2. D. Li, <b>Z. Zhang</b>, K. Yu, K. Huang and T. Tan, "ISEE: An Intelligent Scene Exploration and Evaluation Platform for Large-Scale Visual Surveillance," IEEE Transactions on Parallel and Distributed Systems (<b>IEEE TPDS</b>), 2019.
 3. Y. Li, <b>Z. Zhang</b>, L. Wang, and T. Tan, "MAPNet: Multi-modal Attentive Pooling Network for RGB-D Indoor Scene Classification," Pattern Recognition (<b>PR</b>), 2019.
 4. D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios," IEEE Trans. on Image Processing (<b>IEEE TIP</b>), Vol. 28, Issue: 4, pp. 1575 – 1590, 2019. [[website of dataset]](https://github.com/dangweili/RAP)
 5. W. Zhao, <b>Z. Zhang</b>, and K. Huang, “Gestalt laws based tracklets analysis for human crowd understanding,” Pattern Recognition (<b>PR</b>), Vol. 75, pp.112-127, 2018.
