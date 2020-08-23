@@ -16,7 +16,7 @@ My research field is computer vision and pattern recognition. The main research 
 
 ### Journal Papers
 1. C. Hu, <b>Z. Zhang</b>, C. Shan, Z. Wang, L. Wang, and T. Tan, "Meta-USR: A Unified Super-Resolution Network for Multiple Degradation Parameters," IEEE Transactions on Neural Networks and Learning Systems (<b>IEEE TNNLS</b>), 2020.
-2. Y. Song, <b>Z. Zhang</b>, C. Shan and L. Wang, "Richly Activated Graph Convolutional Network for Robust Skeleton-based Action Recognition," IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE TCSVT</b>), 2020.
+2. Y. Song, <b>Z. Zhang</b>, C. Shan and L. Wang, "Richly Activated Graph Convolutional Network for Robust Skeleton-based Action Recognition," IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE TCSVT</b>), 2020. [paper](zhangzhang80.github.io/Richly Activated Graph Convolutional Network for Robust Skeleton-based Action Recognition.pdf)
 3. J. Liu, <b>Z. Zhang</b>, C. Shan and T. Tan, "Kinematic Skeleton Graph Augmented Network for Human Parsing," Neurocomputing, 2020.
 4. Z. Jia, <b>Z. Zhang</b>, L. Wang, C. Shan and T. Tan, "Deep Unbiased Embedding Transfer for Zero-shot Learning," IEEE Transactions on Image Processing (<b>IEEE TIP</b>), 2019.
 5. D. Li, <b>Z. Zhang</b>, K. Yu, K. Huang and T. Tan, "ISEE: An Intelligent Scene Exploration and Evaluation Platform for Large-Scale Visual Surveillance," IEEE Transactions on Parallel and Distributed Systems (<b>IEEE TPDS</b>), 2019.
