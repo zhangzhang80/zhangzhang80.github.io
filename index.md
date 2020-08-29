@@ -12,7 +12,7 @@ I received the PhD degree in Pattern Recognition and Intelligent Systems from th
 
 My research field is computer vision and pattern recognition. The main research interests include human action and activity recognition, human attribute recognition, person re-identification, and large-scale person retrieval.
 
-## Selective Publications
+## Selected Publications
 
 ### Journal Papers
 1. X. Hu, <b>Z. Zhang</b>, C. Shan, Z. Wang, L. Wang, and T. Tan, "Meta-USR: A Unified Super-Resolution Network for Multiple Degradation Parameters," IEEE Transactions on Neural Networks and Learning Systems (<b>IEEE TNNLS</b>), 2020.
