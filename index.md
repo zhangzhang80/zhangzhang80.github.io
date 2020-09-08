@@ -28,7 +28,7 @@ My research field is computer vision and pattern recognition. The main research 
 11.	单言虎、<b>张彰</b>、黄凯奇，“人的视觉行为识别研究回顾, 现状及展望”，计算机研究与发展，2016.
 12. Y. Shan,  <b>Z. Zhang</b>, P. Yang, and K. Huang, "Adaptive Slice Representation for Human Action Classification," IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE TCSVT</b>), Vol. 25, no. 10, 2015.
 13. <b>Z. Zhang</b>, J. Cheng, J. Li, W. Bian, and D. Tao, "Segment-based features for time series classification," The Computer Journal (<b>TCJ</b>), Vol. 55, no. 9, pp. 1088-1102, 2012.
-14. <b>Z. Zhang</b> and D. Tao, "Slow Feature Analysis for Action Recognition," IEEE Trans. on Pattern Analysis and Machine Intelligence (<b>IEEE TPAMI</b>), vol.34, no. 3, pp. 436-450, 2012. [[paper]](zhangzhang80.github.io/slow feature analysis for human action recognition.pdf)
+14. <b>Z. Zhang</b> and D. Tao, "Slow Feature Analysis for Human Action Recognition," IEEE Trans. on Pattern Analysis and Machine Intelligence (<b>IEEE TPAMI</b>), vol.34, no. 3, pp. 436-450, 2012. [[paper]](zhangzhang80.github.io/slow feature analysis for human action recognition.pdf)
 15. <b>Z. Zhang</b>, T. Tan and K. Huang, "An Extended Grammar System for Learning and Recognizing Complex Visual Events," IEEE Trans. on Pattern Analysis and Machine Intelligence (<b>IEEE TPAMI</b>), vol. 33, no. 2, pp. 240-255, 2011. [[paper]](zhangzhang80.github.io/an extended grammar system for learning and recognizing complex visual events.pdf)
 
 ### Conference Papers
