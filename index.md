@@ -15,7 +15,7 @@ My research field is computer vision and pattern recognition. The main research 
 ## Selected Publications
 
 ### Journal Papers
-1. Y. Song, <b>Z. Zhang</b>, C. Shan, L. Wang, "Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition," IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), Accepted, 2022.
+1. Y. Song, <b>Z. Zhang</b>, C. Shan, L. Wang, "Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition," IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), Accepted, 2022.[[paper]](zhangzhang80.github.io/Constructing_Stronger_and_Faster_Baselines_for_Skeleton-based_Action_Recognition.pdf) [[code]](https://gitee.com/yfsong0709/EfficientGCNv1)
 2. X. Hu, <b>Z. Zhang</b>, C. Shan, Z. Wang, L. Wang, and T. Tan, "Meta-USR: A Unified Super-Resolution Network for Multiple Degradation Parameters," IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2020.
 3. Y. Song, <b>Z. Zhang</b>, C. Shan and L. Wang, "Richly Activated Graph Convolutional Network for Robust Skeleton-based Action Recognition," IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>), 2020. [[paper]](zhangzhang80.github.io/Richly Activated Graph Convolutional Network for Robust Skeleton-based Action Recognition.pdf)
 4. J. Liu, <b>Z. Zhang</b>, C. Shan and T. Tan, "Kinematic Skeleton Graph Augmented Network for Human Parsing," Neurocomputing, 2020.
