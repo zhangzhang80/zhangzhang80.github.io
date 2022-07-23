@@ -53,6 +53,6 @@ My research field is computer vision and pattern recognition. The main research 
 
 A slow runnner (Compeleted the [Beijing Marathan](http://www.beijing-marathon.com/) in 2014 and 2015)
 
-A drum player (Exercising at [Simon Drum Community](http://www.simondrum.cn/) since 2016)
+A drum player (Exercising at [Simon Drum Community](http://www.simondrum.com/) since 2016)
 
 [My page on NetEase Cloud Music](https://music.163.com/#/user/home?id=314018508)
