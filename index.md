@@ -52,7 +52,7 @@ My research field is computer vision and pattern recognition. The main research 
 ## Other Hobbies
 
 A slow runnner (Compeleted the [Beijing Marathan](http://www.beijing-marathon.com/) in 2014 and 2015)
-<img src="marathon performance.png" sizes="(max-width: 100px) 20px, 10vw">
+<img src="marathon performance1.png" sizes="(max-width: 100px) 20px, 10vw">
 
 A drum player (Exercising at [Simon Drum Community](http://www.simondrum.com/) since 2016)
 
