@@ -12,7 +12,7 @@ I received the PhD degree from [National Laboratory of Pattern Recognition (NLPR
 
 My research field is computer vision and pattern recognition. The main research interests include human action and activity recognition, human attribute recognition, person re-identification, and large-scale person retrieval.
 
-## Selected Publications ([Google Scholar Page](https://scholar.google.com/citations?user=rnRNwEMAAAAJ))
+## Selected Publications ([My Page on Google Scholar](https://scholar.google.com/citations?user=rnRNwEMAAAAJ))
 
 ### Journal Papers
 1. D. Li, <b>Z. Zhang</b>, C. Shan, L. Wang, "Incremental Pedestrian Attribute Recognition via Dual Uncertainty-Aware Pseudo-Labeling," IEEE Transactions on Information Forensics and Security (TIFS), 2023.
