@@ -27,7 +27,7 @@ My research field is computer vision and pattern recognition. The main research 
 10. <b>Z. Zhang</b>, T. Tan and K. Huang, "An Extended Grammar System for Learning and Recognizing Complex Visual Events," IEEE Trans. on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), vol. 33, no. 2, pp. 240-255, 2011. [[paper]](https://zhangzhang80.github.io/an extended grammar system for learning and recognizing complex visual events.pdf)
 
 ### Conference Papers
-1.Y-F. Zhang, X. Wang, K. Jin, K. Yuan, <b>Z. Zhang</b>, L. Wang, R. Jin, and T. Tan “AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation,” International Conference on Machine Learning (ICML), 2023.
+1. Y-F. Zhang, X. Wang, K. Jin, K. Yuan, <b>Z. Zhang</b>, L. Wang, R. Jin, and T. Tan, “AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation,” International Conference on Machine Learning (ICML), 2023.
 2. W. Chen, C. Si, <b>Z. Zhang</b>, L. Wang, Z. Wang and T. Tan, "Semantic Prompt for Few-Shot Learning," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023.
 3. Y. Zhang, X. Wang, J. Liang, <b>Z. Zhang</b>, L. Wang, R. Jin and T. Tan, "Free Lunch for Domain Adversarial Training: Environment Label Smoothing," International Conference on Learning Representation (<b>ICLR</b>), 2023
 4. W. Chen, <b>Z. Zhang</b>, W. Wang, L. Wang, Z. Wang, and T. Tan, "Cross-Domain Cross-Set Few-Shot Learning via Learning Compact and Aligned Representations," European Conference on Computer Vision (<b>ECCV</b>), 2022
