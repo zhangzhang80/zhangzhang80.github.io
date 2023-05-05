@@ -15,10 +15,10 @@ My research field is computer vision and pattern recognition. The main research 
 ## Selected Publications ([My Page on Google Scholar](https://scholar.google.com/citations?user=rnRNwEMAAAAJ))
 
 ### Journal Papers
-1. D. Li, <b>Z. Zhang</b>, C. Shan, L. Wang, "Incremental Pedestrian Attribute Recognition via Dual Uncertainty-Aware Pseudo-Labeling," IEEE Transactions on Information Forensics and Security (TIFS), 2023.
+1. D. Li, <b>Z. Zhang</b>, C. Shan, L. Wang, "Incremental Pedestrian Attribute Recognition via Dual Uncertainty-Aware Pseudo-Labeling," IEEE Transactions on Information Forensics and Security (<b>TIFS</b>), 2023.
 2. W. Chen, <b>Z. Zhang</b>, W. Wang, L. Wang, Z. Wang, and T. Tan, "Few-Shot Learning with Unsupervised Part Discovery and Part-Aligned Similarity," Pattern Recognition (<b>PR</b>), Volume 133, 2023.
 3. Y. Song, <b>Z. Zhang</b>, C. Shan, L. Wang, "Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition," IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), VOL. 45, NO. 2, 2023. [[paper]](https://zhangzhang80.github.io/Constructing_Stronger_and_Faster_Baselines_for_Skeleton-based_Action_Recognition.pdf) [[code]](https://gitee.com/yfsong0709/EfficientGCNv1)
-4. Y. Zhang, <b>Z. Zhang</b>, D. Li, Z. Jia, L. Wang and T. Tan, "Learning Domain Invariant Representations for Generalizable Person Re-Identifification," IEEE Transactions on Image Processing (<b>TIP</b>), vol. 23, pp.509 - 523, 2022
+4. Y-F. Zhang, <b>Z. Zhang</b>, D. Li, Z. Jia, L. Wang and T. Tan, "Learning Domain Invariant Representations for Generalizable Person Re-Identifification," IEEE Transactions on Image Processing (<b>TIP</b>), vol. 23, pp.509 - 523, 2022
 5. Z. Jia, <b>Z. Zhang</b>, L. Wang, C. Shan and T. Tan, "Deep Unbiased Embedding Transfer for Zero-shot Learning," IEEE Transactions on Image Processing (<b>TIP</b>), 2019. [[paper]](https://zhangzhang80.github.io/Deep Unbiased Embedding Transfer for ZSL.pdf)
 6. D. Li, <b>Z. Zhang</b>, K. Yu, K. Huang and T. Tan, "ISEE: An Intelligent Scene Exploration and Evaluation Platform for Large-Scale Visual Surveillance," IEEE Transactions on Parallel and Distributed Systems (<b>TPDS</b>), 2019. [[paper]](https://zhangzhang80.github.io/TPDS-ISEE.pdf)
 7. Y. Li, <b>Z. Zhang</b>, L. Wang, and T. Tan, "MAPNet: Multi-modal Attentive Pooling Network for RGB-D Indoor Scene Classification," Pattern Recognition (<b>PR</b>), 2019. [[paper]](https://zhangzhang80.github.io/MAPNet.pdf)
@@ -29,7 +29,7 @@ My research field is computer vision and pattern recognition. The main research 
 ### Conference Papers
 1. Y-F. Zhang, X. Wang, K. Jin, K. Yuan, <b>Z. Zhang</b>, L. Wang, R. Jin, and T. Tan, “AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation,” International Conference on Machine Learning (ICML), 2023.
 2. W. Chen, C. Si, <b>Z. Zhang</b>, L. Wang, Z. Wang and T. Tan, "Semantic Prompt for Few-Shot Learning," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023.
-3. Y. Zhang, X. Wang, J. Liang, <b>Z. Zhang</b>, L. Wang, R. Jin and T. Tan, "Free Lunch for Domain Adversarial Training: Environment Label Smoothing," International Conference on Learning Representation (<b>ICLR</b>), 2023
+3. Y-F. Zhang, X. Wang, J. Liang, <b>Z. Zhang</b>, L. Wang, R. Jin and T. Tan, "Free Lunch for Domain Adversarial Training: Environment Label Smoothing," International Conference on Learning Representation (<b>ICLR</b>), 2023
 4. W. Chen, <b>Z. Zhang</b>, W. Wang, L. Wang, Z. Wang, and T. Tan, "Cross-Domain Cross-Set Few-Shot Learning via Learning Compact and Aligned Representations," European Conference on Computer Vision (<b>ECCV</b>), 2022
 5. Y. Song, <b>Z. Zhang</b>, C. Shan, and L. Wang, "Stronger, Faster and More Explainable: A Graph Convolutional Baseline for Skeleton-based Action Recognition," ACM Conference on Multimedia (<b>MM</b>), 2020.
 6. W. Yang, H. Huang, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-Identification," IEEE Conference on Computre Vision and Pattern Recognition (<b>CVPR</b>), 2019. [[paper]](zhangzhang80.github.io/Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-identification.pdf)
