@@ -10,7 +10,7 @@ I received the PhD degree from [National Laboratory of Pattern Recognition (NLPR
 
 ## Research Interests
 
-My research field is computer vision and pattern recognition. The main research interests include human action and activity recognition, human attribute recognition, person re-identification, and large-scale person retrieval.
+My research field is computer vision and pattern recognition. The main research interests include human action and activity recognition, human attribute recognition, person re-identification, and large-scale person retrieval. Currently, we launch a new project on human machine collaboration, such as human machine copilot in driving scenarios. So I am learning the problem of alignment between machine learning and human values. Here is my [Chinese translation](https://t01z0iqrfjb.feishu.cn/drive/folder/M0q0fgzPvl7ZSRdakWPcUzAKnTc) on the book [The Alignment Problem](https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821) by BRIAN CHRISTIAN.
 
 ## Selected Publications ([My Page on Google Scholar](https://scholar.google.com/citations?user=rnRNwEMAAAAJ))
 
