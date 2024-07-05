@@ -15,8 +15,8 @@ My research field is computer vision and pattern recognition. The main research 
 ## Selected Publications ([My Page on Google Scholar](https://scholar.google.com/citations?user=rnRNwEMAAAAJ))
 
 ### Journal Papers
-1. D. Li, <b>Z. Zhang</b>, C. Shan, L. Wang, "Incremental Pedestrian Attribute Recognition via Dual Uncertainty-Aware Pseudo-Labeling," IEEE Transactions on Information Forensics and Security (<b>TIFS</b>), 2023.
-2. W. Chen, <b>Z. Zhang</b>, W. Wang, L. Wang, Z. Wang, and T. Tan, "Few-Shot Learning with Unsupervised Part Discovery and Part-Aligned Similarity," Pattern Recognition (<b>PR</b>), Volume 133, 2023.
+1. Z. Jia, <b>Z. Zhang</b>, L. Wang, and T. Tan, "Human Image Generation: A Comprehensive Survey," ACM Computing Surveys, 2024.
+2. D. Li, <b>Z. Zhang</b>, C. Shan, L. Wang, "Incremental Pedestrian Attribute Recognition via Dual Uncertainty-Aware Pseudo-Labeling," IEEE Transactions on Information Forensics and Security (<b>TIFS</b>), 2023.
 3. Y. Song, <b>Z. Zhang</b>, C. Shan, L. Wang, "Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition," IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), VOL. 45, NO. 2, 2023. [[paper]](https://zhangzhang80.github.io/Constructing_Stronger_and_Faster_Baselines_for_Skeleton-based_Action_Recognition.pdf) [[code]](https://gitee.com/yfsong0709/EfficientGCNv1)
 4. Y-F. Zhang, <b>Z. Zhang</b>, D. Li, Z. Jia, L. Wang and T. Tan, "Learning Domain Invariant Representations for Generalizable Person Re-Identifification," IEEE Transactions on Image Processing (<b>TIP</b>), vol. 23, pp.509 - 523, 2022
 5. Z. Jia, <b>Z. Zhang</b>, L. Wang, C. Shan and T. Tan, "Deep Unbiased Embedding Transfer for Zero-shot Learning," IEEE Transactions on Image Processing (<b>TIP</b>), 2019. [[paper]](https://zhangzhang80.github.io/Deep Unbiased Embedding Transfer for ZSL.pdf)
@@ -27,16 +27,17 @@ My research field is computer vision and pattern recognition. The main research 
 10. <b>Z. Zhang</b>, T. Tan and K. Huang, "An Extended Grammar System for Learning and Recognizing Complex Visual Events," IEEE Trans. on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), vol. 33, no. 2, pp. 240-255, 2011. [[paper]](https://zhangzhang80.github.io/an extended grammar system for learning and recognizing complex visual events.pdf)
 
 ### Conference Papers
-1. Y-F. Zhang, X. Wang, K. Jin, K. Yuan, <b>Z. Zhang</b>, L. Wang, R. Jin, and T. Tan, “AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation,” International Conference on Machine Learning (ICML), 2023.
-2. W. Chen, C. Si, <b>Z. Zhang</b>, L. Wang, Z. Wang and T. Tan, "Semantic Prompt for Few-Shot Learning," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023.
-3. Y-F. Zhang, X. Wang, J. Liang, <b>Z. Zhang</b>, L. Wang, R. Jin and T. Tan, "Free Lunch for Domain Adversarial Training: Environment Label Smoothing," International Conference on Learning Representation (<b>ICLR</b>), 2023
-4. W. Chen, <b>Z. Zhang</b>, W. Wang, L. Wang, Z. Wang, and T. Tan, "Cross-Domain Cross-Set Few-Shot Learning via Learning Compact and Aligned Representations," European Conference on Computer Vision (<b>ECCV</b>), 2022
-5. Y. Song, <b>Z. Zhang</b>, C. Shan, and L. Wang, "Stronger, Faster and More Explainable: A Graph Convolutional Baseline for Skeleton-based Action Recognition," ACM Conference on Multimedia (<b>MM</b>), 2020.
-6. W. Yang, H. Huang, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-Identification," IEEE Conference on Computre Vision and Pattern Recognition (<b>CVPR</b>), 2019. [[paper]](zhangzhang80.github.io/Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-identification.pdf)
-7. H. Huang, D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Adversarially Occluded Samples For Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2018.
-8. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, "Learning Deep Context-aware Features over Body and Latent Parts for Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2017.
-9. <b>Z. Zhang</b>, K. Huang, T. Tan, P. Yang and J. Li, "ReD-SFA: Relation Discovery Based Slow Feature Analysis for Trajectory Clustering," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), pp. 752-760, 2016. [[paper]](zhangzhang80.github.io/ReD-SFA.pdf)
-10. <b>Z. Zhang</b>, K. Huang, T. Tan and L. Wang, "Trajectory Series Analysis based  Event Rule Induction for Visual Surveillance," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2007.
+1. Y. Huang, <b>Z. Zhang</b>, Q. Wu, Y. Zhong, and L. Wang, "Attribute-Guided Pedestrian Retrieval: Bridging Person Re-ID with Internal Attribute Variability,"  IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024.
+2. Y-F. Zhang, Q. Wen, X. Wang, W. Chen, L. Sun, <b>Z. Zhang</b>, L. Wang, R. Jin, and T. Tan, "Onenet: Enhancing Time Series Forecasting Models Under Concept Drift by Online Ensembling," Advances in Neural Information Processing Systems (NeurIPS), 2024.
+3. Y-F. Zhang, X. Wang, K. Jin, K. Yuan, <b>Z. Zhang</b>, L. Wang, R. Jin, and T. Tan, “AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation,” International Conference on Machine Learning (ICML), 2023.
+4. W. Chen, C. Si, <b>Z. Zhang</b>, L. Wang, Z. Wang and T. Tan, "Semantic Prompt for Few-Shot Learning," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023.
+5. Y-F. Zhang, X. Wang, J. Liang, <b>Z. Zhang</b>, L. Wang, R. Jin and T. Tan, "Free Lunch for Domain Adversarial Training: Environment Label Smoothing," International Conference on Learning Representation (<b>ICLR</b>), 2023
+6. W. Chen, <b>Z. Zhang</b>, W. Wang, L. Wang, Z. Wang, and T. Tan, "Cross-Domain Cross-Set Few-Shot Learning via Learning Compact and Aligned Representations," European Conference on Computer Vision (<b>ECCV</b>), 2022
+7. W. Yang, H. Huang, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-Identification," IEEE Conference on Computre Vision and Pattern Recognition (<b>CVPR</b>), 2019. [[paper]](zhangzhang80.github.io/Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-identification.pdf)
+8. H. Huang, D. Li, <b>Z. Zhang</b>, X. Chen, and K. Huang, "Adversarially Occluded Samples For Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2018.
+9. D. Li, X. Chen, <b>Z. Zhang</b>, and K. Huang, "Learning Deep Context-aware Features over Body and Latent Parts for Person Re-identification," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2017.
+10. <b>Z. Zhang</b>, K. Huang, T. Tan, P. Yang and J. Li, "ReD-SFA: Relation Discovery Based Slow Feature Analysis for Trajectory Clustering," IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), pp. 752-760, 2016. [[paper]](zhangzhang80.github.io/ReD-SFA.pdf)
+
 
 ## Other Hobbies
 
