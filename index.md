@@ -29,7 +29,7 @@ Based on previous studies on action recognition and attribute recognition, we de
 10. <b>Z. Zhang</b>, T. Tan and K. Huang, "An Extended Grammar System for Learning and Recognizing Complex Visual Events," IEEE Trans. on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), vol. 33, no. 2, pp. 240-255, 2011. [[paper]](https://zhangzhang80.github.io/an extended grammar system for learning and recognizing complex visual events.pdf)
 
 ### Conference Papers
-1. <b>Z. Zhang</b>, D. Li, G. Wu, Y. Li, X. Sun, and L. Wang, "Love in Action: Gamifying Public Video Cameras for Fostering Social Relationships in Real World," EAI International Conference: ArtsIT, Interactivity & Game Creation 2024.
+1. <b>Z. Zhang</b>, D. Li, G. Wu, Y. Li, X. Sun, and L. Wang, "Love in Action: Gamifying Public Video Cameras for Fostering Social Relationships in Real World," EAI International Conference: ArtsIT, Interactivity & Game Creation, 2024.
 1. Y. Huang, <b>Z. Zhang</b>, Q. Wu, Y. Zhong, and L. Wang, "Attribute-Guided Pedestrian Retrieval: Bridging Person Re-ID with Internal Attribute Variability,"  IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024.
 2. Y-F. Zhang, Q. Wen, X. Wang, W. Chen, L. Sun, <b>Z. Zhang</b>, L. Wang, R. Jin, and T. Tan, "Onenet: Enhancing Time Series Forecasting Models Under Concept Drift by Online Ensembling," Advances in Neural Information Processing Systems (NeurIPS), 2024.
 3. Y-F. Zhang, X. Wang, K. Jin, K. Yuan, <b>Z. Zhang</b>, L. Wang, R. Jin, and T. Tan, “AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation,” International Conference on Machine Learning (ICML), 2023.
