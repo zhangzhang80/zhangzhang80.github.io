@@ -6,14 +6,6 @@ layout: default
 
 <img class="profile-picture" src="zhangzhang.jpg">
 
-<p class="visitor-counter">
-  <small>
-    <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    Visits: <span id="busuanzi_value_site_pv"></span> |
-    Visitors: <span id="busuanzi_value_site_uv"></span>
-  </small>
-</p>
-
 I received the PhD degree from [National Laboratory of Pattern Recognition (NLPR)](http://nlpr.ia.ac.cn), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/) in 2009 under the supervision of [Prof. Tieniu Tan](http://cripac.ia.ac.cn/CN/column/item83.shtml). From 2009 to 2010, I was a research fellow working with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343) at the School of Computer Science and Engineering, Nanyang Technological University (NTU). In September 2010, I joined the NLPR, Institute of Automation, Chinese Academy of Sciences(CASIA). In 2019, I worked as a visiting researcher under the direction of [Prof. Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/) at University of California, Los Angeles (UCLA). Now, I am an Associate Professor at the [New Laboratory of Pattern Recognition (NLPR)](http://cripac.ia.ac.cn/) and [State Key Laboratory of Multimodal Artificial Intelligence Systems(MAIS)](https://mais.ia.ac.cn/), CASIA.
 
 ## Research Interests
@@ -57,3 +49,11 @@ A slow runnner (Compeleted the [Beijing Marathan](http://www.beijing-marathon.co
 A drum player (Exercising at [Simon Drum Community](http://www.simondrum.com/) since 2016)
 
 [My page on NetEase Cloud Music](https://music.163.com/#/user/home?id=314018508)
+
+<p class="visitor-counter">
+  <small>
+    <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    Visits: <span id="busuanzi_value_site_pv"></span> |
+    Visitors: <span id="busuanzi_value_site_uv"></span>
+  </small>
+</p>
